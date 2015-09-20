@@ -1,0 +1,11 @@
+{
+  "name": "golf",
+  "dependencies": {},
+  "devDependencies": {
+  	"mocha": "*",
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "should": "^7.1.0"
+  }
+}
