@@ -1,5 +1,8 @@
 {
-  "name": "golf",
+  "name": "golf-membership",
+  "version": "0.0.1",
+  "author": "Sam Merrill",
+  "description": "A membership system for golf stores",
   "dependencies": {},
   "devDependencies": {
   	"mocha": "*",
